@@ -1,0 +1,22 @@
+.card{
+    width: 300px;
+    border-left: 8px solid #41bf99ff;
+    height: 100px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.card h3{
+    color: #41bf99ff;
+    font-size: 22px;
+    font-weight: 400;
+
+}
+.card p{
+    font-weight: 600;
+}
